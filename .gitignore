@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+yarn-lock.json
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db 
